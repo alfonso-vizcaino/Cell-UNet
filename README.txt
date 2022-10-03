@@ -1,4 +1,4 @@
-# Source code for article: _Pixel-wise Classification in Hippocampus Histological Images_
+# Source code for article: Neuron cell count with deep learning in highly dense hippocampus images
 
 If you find this work useful, please consider citing this work as:
 
